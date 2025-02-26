@@ -14,7 +14,7 @@ Welcome to my personal website. Here, I share my research and projects.
 Hello! I am **Elaine Chen**, currently pursuing a **Master's degree in Financial Engineering at National Yang Ming Chiao Tung University**.
 
 
-<img src="" alt="Profile Picture" width="200">
+<img src="https://github.com/user-attachments/assets/7f153356-cef0-48d4-8c5d-4965c6881553" alt="Profile Picture" width="200">
 
 
 ### Education

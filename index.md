@@ -3,7 +3,6 @@ title: "Ting-Siou Chen 陳亭秀"
 author: "Ting-Siou Chen"
 description: ""
 theme: jekyll-theme-minimal  # Change theme if needed
-<img src="https://github.com/user-attachments/assets/7f153356-cef0-48d4-8c5d-4965c6881553" alt="Profile Picture" width="200">
 ---
 
 # Hello, I'm Elaine!

@@ -2,7 +2,7 @@
 title: "Ting-Siou Chen 陳亭秀"
 author: "Ting-Siou Chen"
 description: ""
-theme: jekyll-theme-minima  # Change theme if needed
+theme: jekyll-theme-minimal  # Change theme if needed
 ---
 
 # Hello, I'm Elaine!

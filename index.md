@@ -1,7 +1,5 @@
 ---
-layout: home
 title: "Ting-Siou Chen 陳亭秀"
-title: "Welcome to My Site"
 theme: jekyll-theme-cayman  # Change theme if needed
 ---
 

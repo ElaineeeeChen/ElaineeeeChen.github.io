@@ -1,5 +1,7 @@
 ---
 title: "Ting-Siou Chen 陳亭秀"
+author: "Ting-Siou Chen"
+description: ""
 theme: jekyll-theme-cayman  # Change theme if needed
 ---
 
